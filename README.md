@@ -1,7 +1,7 @@
 
 <p align="left">- 👋 Hi, I’m Mikko "Keijo" Pitkänen</p>
 <p align="left">- 👀 I’m interested in Linux and CLI tools</p>
-<p align="left">- ⚡ I'm currently working on: COBOL Tetris, Jellyfin-Media-Renamer, My github pages website</p>
+<p align="left">- ⚡ I'm currently working on: COBOL Tetris, Jellyfin-Media-Renamer, java2uml</p>
 
 ###
 
